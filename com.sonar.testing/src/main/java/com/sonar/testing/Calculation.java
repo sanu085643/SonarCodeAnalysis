@@ -10,8 +10,6 @@ package com.sonar.testing;
 public class Calculation {
 
 	
-	int sfdgsfd, gsdfgs, sgdfsgd;
-	
 	public Integer adder(Integer firstNumber, Integer secondNumber) {
 		return firstNumber + secondNumber;
 	}
